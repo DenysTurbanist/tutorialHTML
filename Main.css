@@ -1,0 +1,18 @@
+.box {
+  background-color: aquamarine;
+}
+.tags {
+  width: 720px;
+  color: rgb(2, 189, 189);
+  background-color: rgb(112, 109, 106);
+}
+.tag {
+  background-color: aqua;
+}
+.style {
+  width: auto;
+  color: rgb(0, 0, 0);
+}
+.background-color {
+  color: rgb(6, 200, 200);
+}
